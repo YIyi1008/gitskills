@@ -3,3 +3,5 @@ Git is free software.
 now i want to upgate this txt.
 Git tracks changes of files
 Creating a new branch is quick and simple.
+我在这里做一个vscode 的git测试
+
