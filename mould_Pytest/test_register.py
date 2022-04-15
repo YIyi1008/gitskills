@@ -36,5 +36,5 @@ class TestRegister(unittest.TestCase):
 
 
 # 如果直接运行这个文件，需要使用unitest中的main函数来执行测试用例
-if __name__ == '_main_':
+if __name__ == '__main__':
 	unittest.main()
